@@ -6,7 +6,6 @@ import Loader from '../components/Loader'
 import Message from '../components/Message'
 import { listProducts } from '../action/productActions'
 
-
 function HomeScreen() {
 
     const dispatch = useDispatch()
