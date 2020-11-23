@@ -9,7 +9,7 @@ import { createOrder } from '../action/orderActions'
 function PlaceOrderScreen({ history }) {
     const dispatch = useDispatch()
     const cart = useSelector(state => state.cart)
-    console.log(cart.shippingAddress)
+    
     // Calculate prices
     const addDecimals = (num) => {
         return (Math.round(num * 100) / 100).toFixed(2)
