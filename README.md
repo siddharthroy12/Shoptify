@@ -4,6 +4,9 @@
 
 ![screenshot](https://github.com/siddharthroy12/Shoptify/blob/main/uploads/screenshot.png)
 
+## Live Site
+[https://theshoptify.herokuapp.com/](https://theshoptify.herokuapp.com/)
+
 ## Features
 
 - Full featured shopping cart
