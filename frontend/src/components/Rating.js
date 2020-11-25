@@ -44,7 +44,7 @@ function Rating({ value, text, color }) {
 }
 
 Rating.defaultProps = {
-    color: "red"
+    color: "orange"
 }
 
 Rating.propTypes = {
