@@ -38,6 +38,7 @@ PORT = 5000
 MONGO_URI = your mongodb uri
 JWT_SECRET = 'abc123'
 PAYPAL_CLIENT_ID = your paypal client id
+IMGBB_KEY = imgbb api key
 ```
 
 ### Install Dependencies (frontend & backend)
